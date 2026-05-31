@@ -1,5 +1,7 @@
 # ProjetoAD
+
 Projeto da disciplina de análise de dados
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 # Clonando o repositório
 Depois de instalar o Git, utilizando o terminal, clone este repositório para o seu computador.
