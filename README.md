@@ -3,7 +3,7 @@ Projeto da disciplina de análise de dados
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Datasets: Ministério do Turismo
-URL: https://dados.gov.br/dados/organizacoes/visualizar/ministerio-do-turismo
+URL para acesso: https://dados.gov.br/dados/organizacoes/visualizar/ministerio-do-turismo
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Clonando o repositório
