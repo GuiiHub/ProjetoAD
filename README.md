@@ -2,8 +2,8 @@
 Projeto da disciplina de análise de dados
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# 1ª Opção: Cadastro Nacional de Reclamações Fundamentadas (PROCONS - Sindec)
-URL: https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-de-reclamacoes-fundamentadas-procons-sindec1
+# Datasets: Ministério do Turismo
+URL para acesso: https://dados.gov.br/dados/organizacoes/visualizar/ministerio-do-turismo
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Clonando o repositório
