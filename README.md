@@ -26,10 +26,11 @@ Caso o comando code . não funcione, abra o VS Code manualmente e selecione:
 File > Open Folder
 ```
 Em seguida, escolha a pasta do projeto.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Estrutura sugerida do repositório
-
+```
 analise-de-dados/
 │
 ├── README.md
@@ -60,4 +61,5 @@ analise-de-dados/
 │
 └── docs/
     └── materiais_apoio.md
+````
 
