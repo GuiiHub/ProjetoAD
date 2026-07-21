@@ -2,8 +2,15 @@
 Projeto da disciplina de análise de dados
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Datasets: MTur - Ministério do Turismo
+# Datasets
+
+Censo Escolar INEP 2025
 URL para acesso: https://dados.gov.br/dados/organizacoes/visualizar/ministerio-do-turismo
+URL para download:
+
+Taxas de Rendimento INEP 2025
+URL para acesso:
+URL para download:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Clonando o repositório
