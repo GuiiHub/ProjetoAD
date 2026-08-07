@@ -3,7 +3,7 @@ Este projeto tem como objetivo investigar o abandono escolar nos anos iniciais d
 
 ## **Dados utilizados**
 
-### Censo Escolar INEP 2025
+### Microdados do Censo Escolar INEP 2025
 
 Download: https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip
 
