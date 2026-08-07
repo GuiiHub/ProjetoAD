@@ -1,12 +1,12 @@
 # ProjetoAD
 Projeto da disciplina de análise de dados
-
+https://school-rate-insights.lovable.app/
 ------------------------------------------------------------------------------------------------------------------------------------------
 # **Datasets**
 
 ### Censo Escolar INEP 2025
 
-URL para acesso: https://dados.gov.br/dados/organizacoes/visualizar/ministerio-do-turismo
+Download: https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip
 
 URL para download:
 
