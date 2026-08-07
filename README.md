@@ -1,7 +1,5 @@
-# ProjetoAD
-Projeto da disciplina de análise de dados
-https://school-rate-insights.lovable.app/
-------------------------------------------------------------------------------------------------------------------------------------------
+# **Abandono Escolar x Infraestrutura nos anos iniciais do Ensino Fundamental na Paraíba**
+
 # **Datasets**
 
 ### Censo Escolar INEP 2025
