@@ -1,6 +1,7 @@
 # **Abandono Escolar x Infraestrutura nos anos iniciais do Ensino Fundamental na Paraíba**
+Este projeto tem como objetivo investigar o abandono escolar nos anos iniciais do Ensino Fundamental na Paraíba, cruzando os indicadores de taxa de abandono das Taxas de Rendimento Escolar do INEP com os dados estruturais e de infraestrutura do Censo Escolar
 
-# **Datasets**
+## **Dados utilizados**
 
 ### Censo Escolar INEP 2025
 
